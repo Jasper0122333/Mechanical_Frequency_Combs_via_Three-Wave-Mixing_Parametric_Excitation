@@ -2,7 +2,7 @@ Source File Name:	small_signal_Bridge_new
 Signal:	FFT - Vib & Ref1 H1 Velocity / Voltage - Mag. & Phase
 
 Frequency	Magnitude	Phase
-[ Hz ]	[ m/s / V ]	[ ° ]
+[ Hz ]	[ m/s / V ]	[ Â° ]
 62.5	0.0004742349	3.44682
 125	0.003353307	73.77993
 187.5	0.005597423	64.989
